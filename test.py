@@ -4,6 +4,7 @@ import pickle
 import time
 import os
 
+#data structure for traveller
 #class passenger
 class passenger:
     def __init__(self,id,name):
