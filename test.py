@@ -3,6 +3,7 @@ import pickle
 import time
 import os
 
+#class passenger
 class passenger:
     def __init__(self,id,name):
         
